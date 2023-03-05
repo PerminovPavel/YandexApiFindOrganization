@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class Main {
   public static void main(String[] args) throws IOException, InterruptedException, URISyntaxException {
-    String API = "5e511fab-209a-4cf2-9cda-5db545768579";
+    String API = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
     Scanner sc = new Scanner(System.in);
     System.out.println("Введите название организации режим работы которой вы хотите узнать:");
